@@ -1,0 +1,6 @@
+__pycache__
+figs/
+maps/
+result/
+tests/
+openrouteservice_api_key
